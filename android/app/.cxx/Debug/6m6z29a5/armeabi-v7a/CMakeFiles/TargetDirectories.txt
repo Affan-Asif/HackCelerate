@@ -1,0 +1,2 @@
+C:/Affan/Affan/__Hackathon2k25__/HackCelerate/smart_classroom_assist/android/app/.cxx/Debug/6m6z29a5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Affan/Affan/__Hackathon2k25__/HackCelerate/smart_classroom_assist/android/app/.cxx/Debug/6m6z29a5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
